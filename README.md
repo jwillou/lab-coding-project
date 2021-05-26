@@ -5,7 +5,7 @@ Write a functioning individual (or agent) based model. This should be a basic mo
 
 **Weekly plan:**
 
-Week 1 - 5/26/2021
+Week 1 - 5/26/2021 - https://docs.google.com/document/d/1MpcguxjFwT5Bv7KckISZbuC1DRJfWuMV7lNdbCchxSs/edit
 - install R, R studio, github Desktop
 - talk about model structure/function
 - think and talk about how the model will actually run
