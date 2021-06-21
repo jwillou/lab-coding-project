@@ -14,9 +14,9 @@ Week 2 - 6/23/2021
 - Postponed so we can all enjoy Evolution online conference!
 
 Week 3 - 6/30/2021
-- functions/subroutines
 - format for our work
+- initializing the population
 
 Week 4 - 7/7/2021
-- initializing the population
+- functions/subroutines
 - looping over functions and simulating stuff
