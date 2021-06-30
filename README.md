@@ -13,9 +13,9 @@ Write a functioning individual (or agent) based model. This should be a basic mo
 Week 2 - 6/23/2021
 - Postponed so we can all enjoy Evolution online conference!
 
-Week 3 - 6/30/2021
-- format for our work
+[Week 2 revisited - 6/30/2021](https://docs.google.com/document/d/1JTtMAVYZojaqNjwhNQpmcCGWf6fK2IFJC3Kc67tRgJo/edit "Week 2")
 - initializing the population
+- setting up a simple loop
 
 Week 4 - 7/7/2021
 - functions/subroutines
