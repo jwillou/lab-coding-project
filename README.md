@@ -14,8 +14,10 @@ Week 2 - 6/23/2021
 - Postponed so we can all enjoy Evolution online conference!
 
 [Week 2 revisited - 6/30/2021](https://docs.google.com/document/d/1JTtMAVYZojaqNjwhNQpmcCGWf6fK2IFJC3Kc67tRgJo/edit "Week 2")
+- basic setup (working directory, declaring variables)
 - initializing the population
 - setting up a simple loop
+- if we have time: functions/subroutines
 
 Week 4 - 7/7/2021
 - functions/subroutines
