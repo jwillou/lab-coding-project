@@ -19,6 +19,7 @@ Week 2 - 6/23/2021
 - setting up a simple loop
 - if we have time: functions/subroutines
 
-Week 4 - 7/7/2021
+[Week 3 - 7/7/2021](https://docs.google.com/document/d/1E8AqqE7EAQ_t5E9xP5fODRYYu598BXksI_kAjcDQ6e0/edit "Week 3")
+- script/output organization
 - functions/subroutines
-- looping over functions and simulating stuff
+- sourcing functions
