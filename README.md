@@ -24,7 +24,5 @@ Week 2 - 6/23/2021
 - functions/subroutines
 - sourcing functions
 
-[Week 4 - 7/14/2021](https://docs.google.com/document/d/1ZsiLGxVN7Oih46p2gQc_LBiq2bmLPrzAvKfD3Asl7ro/edit "Week 4")
-- loops
-- more loops
-- if/else
+[Week 4 - 7/21/2021](https://docs.google.com/document/d/1ZsiLGxVN7Oih46p2gQc_LBiq2bmLPrzAvKfD3Asl7ro/edit "Week 4")
+- combining functions we wrote on our own time!
